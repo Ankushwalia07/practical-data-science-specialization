@@ -1,3 +1,5 @@
+![CERTIFICATE](https://github.com/Ankushwalia07/practical-data-science-specialization/blob/d42df7eed072fefa32b8c0f950189bf76dd9eb5c/Certificate.png)
+
 # Practical Data Science Specialization Solutions
 
 Explore all courses within the Coursera Practical Data Science Specialization provided by `deeplearning.ai`.
