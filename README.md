@@ -1,4 +1,4 @@
-![CERTIFICATE](Certificate.png)
+![CERTIFICATE](https://github.com/Ankushwalia07/practical-data-science-specialization/blob/e69f965c8432ffedd690a85c0aadc36d73cb88f7/Certificate.png)
 
 # Practical Data Science Specialization Solutions
 
